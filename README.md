@@ -7,3 +7,6 @@ Here is all about html tag from basic to advanced.
     examples:b, small, em................
 3. Block tags are start with new line. examples : p, heading.......
 
+4. Tag structure :
+                 <opening tag> content </closing tag>
+
