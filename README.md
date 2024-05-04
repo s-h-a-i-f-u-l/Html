@@ -13,3 +13,7 @@ Here is all about html tag from basic to advanced.
 attribute always use in opening tag. structure of attribute : <tag a=" " b=" " c=" "> content </tag> . here, there are three attribute a, b, c. but in opening tag, there no space, comma(,) ir full stop(.) between attributes.
 here, a is attribute name, "attribute value".
 
+6. There are two types tags. 1. complete tag  2. void tags/self-closing tag/empty tag. 
+    1. complete tag : <opening tag> content <self-closing tag> 
+        example : <p>content</p> 
+    2. void tags/self-closing tag/empty tag : these tags have no content & no closing tag. example : <br>, <img>
