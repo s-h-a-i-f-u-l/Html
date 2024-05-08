@@ -9,7 +9,7 @@ Here is all about html tag from basic to advanced.
 
 4. Tag structure : <opening tag> content </closing tag>
 
-5. attribute means working on content text. In anchor tag, href attribute use for making the context ad url. 
+5. attribute means working or modify the content text or image. In anchor tag, href attribute use for making the context ad url. 
 attribute always use in opening tag. structure of attribute : <tag a=" " b=" " c=" "> content </tag> . here, there are three attribute a, b, c. but in opening tag, there no space, comma(,) ir full stop(.) between attributes.
 here, a is attribute name, "attribute value".
 
